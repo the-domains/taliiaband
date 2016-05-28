@@ -1,14 +1,26 @@
-layout_spectrum: 0.023214837070554495
-typography_spectrum: 0.4858201858587563
-color:
-  brandStrength: 0.14853032608516514
-  lightness: 0.11247980128973722
-  saturation: 0.9206665663514286
-  rhythmicContrast: 0.427913831314072
-  brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+layout_spectrum: 1
 name: TaliiaBand
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+color:
+  brandStrength: 0.1485303260851651
+  saturation: 0.9206665663514286
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  lightness: 0.1124798012897372
+  rhythmicContrast: 0.427913831314072
+typography_spectrum: 0.4858201858587563
