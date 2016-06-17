@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TaliiaBand]]></title>
+        <description><![CDATA[TaliiaBand]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 17 Jun 2016 01:58:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Newsletter #5]]></title>
+            <description><![CDATA[<article><h1>Newsletter #5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/828e4e4f-fea0-41fd-9c64-2c997207b4d5.jpg"></article>]]></description>
+            <link>undefinednewsletter-5/index.html</link>
+            <guid isPermaLink="false">aaf2adf7-1ff0-4543-982d-458f2db2a64a</guid>
+            <pubDate>Fri, 17 Jun 2016 01:58:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
