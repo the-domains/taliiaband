@@ -1,5 +1,7 @@
-layout_spectrum: 1
 name: TaliiaBand
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4858201858587563
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.1485303260851651
-  saturation: 0.9206665663514286
   brandColors:
     - '#000000'
     - '#333333'
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+  brandStrength: 0.1875
   lightness: 0.1124798012897372
-  rhythmicContrast: 0.427913831314072
-typography_spectrum: 0.4858201858587563
+  saturation: 0.75
+  rhythmicContrast: 0.75
+purpose: []
