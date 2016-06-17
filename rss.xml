@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[TaliiaBand]]></title>
         <description><![CDATA[TaliiaBand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/taliiaband/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 01:58:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 05:23:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/taliiaband/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Newsletter #5]]></title>
             <description><![CDATA[<article><h1>Newsletter #5</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/828e4e4f-fea0-41fd-9c64-2c997207b4d5.jpg"></article>]]></description>
-            <link>undefinednewsletter-5/index.html</link>
+            <link>https://thegrid.ai/taliiaband/newsletter-5/index.html</link>
             <guid isPermaLink="false">aaf2adf7-1ff0-4543-982d-458f2db2a64a</guid>
             <pubDate>Fri, 17 Jun 2016 01:58:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c8ec1660-a152-49e0-81f3-688732d126fb.jpg">]]></description>
+            <link>https://thegrid.ai/taliiaband/45c00c2e-e398-4ee7-a4d1-9f39219a61bb/index.html</link>
+            <guid isPermaLink="false">45c00c2e-e398-4ee7-a4d1-9f39219a61bb</guid>
+            <pubDate>Fri, 17 Jun 2016 05:23:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
